@@ -1,0 +1,1 @@
+const findAllBooks = () => bookDao.findAllBooks()
